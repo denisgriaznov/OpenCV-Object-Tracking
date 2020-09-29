@@ -54,13 +54,11 @@ if __name__=="__main__":
     # Check video flow
     if not video.isOpened():
         print("Could not open video")
-        sys.exit()
 
     ok, frame = video.read()
 
     if not ok:
         print("Cannot read video file")
-        sys.exit()
 
     if args.box=='select':
         bbox = (235, 100, 180, 180)
