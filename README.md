@@ -28,4 +28,8 @@ Example:
 $python object_tracker.py -v videos/fruit.mp4 -b 235,100,180,180 -f 10
 ```
 
+Test example:
+
+![fruit](images/fruittest.gif)
+
   
