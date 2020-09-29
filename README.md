@@ -24,6 +24,8 @@ is frame number for start tracking if -b is predetermined. In default case is 0.
 
 Example:
 
-#### python object_tracker.py -v videos/fruit.mp4 -b 235, 100, 180, 180 -f 10
+```
+python object_tracker.py -v videos/fruit.mp4 -b 235, 100, 180, 180 -f 10
+```
 
   
