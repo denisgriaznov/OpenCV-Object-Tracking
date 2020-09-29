@@ -56,7 +56,7 @@ is your video path. In default case run your webcam.
 
 Example:
 
-```
+```linux
 $python motion_tracker.py -v videos/traffic.mp4 
 ```
 
