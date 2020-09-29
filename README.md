@@ -25,7 +25,7 @@ is frame number for start tracking if -b is predetermined. In default case is 0.
 Example:
 
 ```
-$python object_tracker.py -v videos/fruit.mp4 -b 235,100,180,180 -f 10
+$python3 object_tracker.py -v videos/fruit.mp4 -b 235,100,180,180 -f 10
 ```
 
 Test example:
@@ -57,7 +57,7 @@ is your video path. In default case run your webcam.
 Example:
 
 ```
-$python motion_tracker.py -v videos/traffic.mp4 
+$python3 motion_tracker.py -v videos/traffic.mp4 
 ```
 
 Test example:
